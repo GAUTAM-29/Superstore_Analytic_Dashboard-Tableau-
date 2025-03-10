@@ -1,0 +1,25 @@
+# What is this dataset about?
+This dataset contains information about employees in a company and helps us understand 
+why some employees leave (attrition) while others stay. It includes details about their 
+age, salary, job role, work experience, and job satisfaction.  
+
+# What can we learn from this dataset?  
+- How many employees are leaving the company and why.  
+- If salary, job role, or work environment affect employee retention.  
+- Which departments or job roles have the highest turnover.  
+- How employee satisfaction and performance relate to attrition.  
+- Whether frequent business travel impacts employee retention.  
+
+# What's inside the dataset?  
+- Each row represents an employee, and each column provides details like:  
+- Personal Information – Age, gender, marital status, education.  
+- Job Details – Job role, department, years at the company.  
+- Salary & Benefits – Monthly income, stock options, salary hikes.  
+- Satisfaction Levels – Work-life balance, job satisfaction.  
+- Performance & Experience – Training, promotion history, performance ratings.  
+- Attrition – Whether the employee left the company or not.  
+
+# How can this data be used?
+- HR teams can use it to reduce employee turnover.  
+- Businesses can improve salary and benefits to retain employees.  
+- Analysts can predict which employees might leave in the future.  
